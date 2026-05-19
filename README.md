@@ -1,4 +1,4 @@
-# LLLMao - Local Large Language Model Assistant Orchestrator
+# LLLMao - Local Large Language Model Assistant Orchestrator - Work in progress
 
 Linux-native Local AI Workstation Platform
 
