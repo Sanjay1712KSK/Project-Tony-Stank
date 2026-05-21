@@ -191,4 +191,4 @@ Always validate outputs and maintain backups of important data.
 
 # License
 
-MIT License
+PolyForm Strict License 1.0.0
