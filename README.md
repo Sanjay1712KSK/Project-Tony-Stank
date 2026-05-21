@@ -169,6 +169,12 @@ The goal is not simply to provide a chat interface, but to evolve toward a full 
 
 ---
 
+## Credits
+
+Special thanks to [Jahanvi](https://github.com/Jahanvisaini3135) for the early inspiration, UI discussions, and creative direction that helped shape LLLMao from a simple local model interface into a much larger workstation platform.
+
+---
+
 # Warning
 
 This project is currently experimental.
