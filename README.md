@@ -1,5 +1,7 @@
 # LLLMao - Local Large Language Model Assistant Orchestrator v1 - Work in progress
 
+UI designed for Ubuntu 24
+
 Linux-native Local AI Workstation Platform
 
 LLLMao is a local-first AI workstation platform designed for Linux power users, developers, researchers, and workstation environments.
