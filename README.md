@@ -1,4 +1,4 @@
-# LLLMao - Local Large Language Model Assistant Orchestrator v1 - Work in progress
+# LLLMao - Local Large Language Model Assistant Orchestrator v1 - Update in progress
 
 UI designed for Ubuntu 24
 
